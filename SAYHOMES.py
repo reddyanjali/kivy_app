@@ -1,4 +1,5 @@
-#Sayhomes
+#Sayhomes-----By Anjali Reddy
+#An App to display images based on various filters, using Kivy Language
 from kivy.app import App
 from kivy.lang.builder import Builder
 from kivy.uix.behaviors import ButtonBehavior  
