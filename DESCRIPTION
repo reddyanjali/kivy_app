@@ -1,4 +1,7 @@
-##Description of the App- ANJALI REDDY
+## Description of the App- ANJALI REDDY
+
 What is SAYHomes?
+
 - This is a Python app developed using Kivy framework, used to display the designs of houses, with it's front and top view displayed.
+
 - Kivy is being used, in order to make the app cross-platform.
