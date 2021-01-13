@@ -17,3 +17,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+If you like my content, please consider buying me a coffee!❤️ 
+
+<a href="https://www.buymeacoffee.com/reddyanjali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
